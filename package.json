@@ -1,0 +1,13 @@
+{
+  "name": "teamboard-api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "thanhtrinhdev mern stack",
+  "main": "src/server.js",
+  "author": "thanhtrinhdev",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
